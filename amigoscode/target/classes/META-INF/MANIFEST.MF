@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Yasar.Desai
+Implementation-Vendor-Id: com.amigoscode
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://spring.io/projects/spring-boot/demo
+Created-By: Maven Integration for Eclipse
+
